@@ -2,6 +2,7 @@
 
 
 **096saravanakumarn/096saravanakumarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Screenshot 2024-10-19 173916](https://github.com/user-attachments/assets/5f011a5e-45a7-450a-8e41-9e3f8b2df5bf)
 
 Here are some ideas to get you started:
 
